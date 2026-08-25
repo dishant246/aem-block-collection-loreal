@@ -1,0 +1,13 @@
+{
+  "status": "success",
+  "url": "https://www.loreal.com/en",
+  "path": "en",
+  "timestamp": "2026-08-25T15:20:04.301Z",
+  "title": "L'Oréal Groupe, the most innovative and caring company",
+  "template": "homepage",
+  "blocks": [
+    "carousel-hero",
+    "search-simple",
+    "cards-story"
+  ]
+}

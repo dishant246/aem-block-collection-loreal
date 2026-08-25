@@ -1,0 +1,15 @@
+{
+  "type": "xwalk",
+  "sites": {
+    "aem-block-collection-loreal": {
+      "previewOrg": "dishant246",
+      "previewSite": "aem-block-collection-loreal",
+      "contentHostUrl": "author-p10903-e844381.adobeaemcloud.com",
+      "aemSitePath": "/content/eds-loreal-dishant",
+      "aemAssetsFolderPath": "/content/dam/eds-loreal-dishant",
+      "aemSiteName": "eds-loreal-dishant",
+      "aemSiteTitle": "eds-loreal-dishant",
+      "libraryUrl": "https://main--sta-xwalk-boilerplate--aemysites.aem.page/tools/sidekick/library.json"
+    }
+  }
+}
