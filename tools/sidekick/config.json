@@ -1,4 +1,7 @@
 {
+  "project": "AEM Loreal_XWalk Boilerplate",
+  "editUrlLabel": "AEM Editor",
+  "editUrlPattern": "{{contentSourceUrl}}{{pathname}}?cmd=open",
   "plugins": [
     {
       "id": "aemedit",
