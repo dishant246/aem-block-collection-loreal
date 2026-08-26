@@ -1,0 +1,38 @@
+{
+  "variantName": "search-simple",
+  "baseBlock": "search",
+  "version": "1.0.0",
+  "created": "2026-08-25T00:00:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.loreal.com/en",
+    "originPage": "L'Oréal Groupe corporate homepage",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "minimal",
+    "purpose": "search",
+    "imagePattern": "noimg"
+  },
+  "contentPattern": {
+    "structure": "label + search input + submit",
+    "buttonCount": 1,
+    "imageCount": 0
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "site-wide search widgets",
+      "homepage search prompts",
+      "query-index backed content search"
+    ],
+    "notSuitableFor": [
+      "faceted/filtered product search",
+      "external search integrations"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/en"],
+    "reuseCount": 1,
+    "lastUsed": "2026-08-25T00:00:00.000Z"
+  }
+}

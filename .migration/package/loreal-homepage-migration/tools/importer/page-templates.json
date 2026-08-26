@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "projectType": "xwalk"
+  },
+  "templates": [
+    {
+      "name": "homepage",
+      "urls": [
+        "https://www.loreal.com/en"
+      ],
+      "coverageGaps": [],
+      "description": "L'Oréal Groupe corporate homepage with hero carousel, search box, and story cards",
+      "blocks": [
+        {
+          "name": "carousel-hero",
+          "instances": [
+            "#content > div.container.container--is-maxwidth > div.hero-carousel",
+            "div.hero-carousel"
+          ]
+        },
+        {
+          "name": "search-simple",
+          "instances": [
+            "#search-box-form"
+          ]
+        },
+        {
+          "name": "cards-story",
+          "instances": [
+            "#content > div.container.container--is-maxwidth > div.container--large div.scroll-slider",
+            "div.scroll-slider.scroll-slider--advanced"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+  <comment>FileVault Package Definition</comment>
+  <entry key="name">eds-loreal-en</entry>
+  <entry key="group">excat-migration</entry>
+  <entry key="version">1.0</entry>
+  <entry key="description">L'Oréal /en homepage content for AEM Edge Delivery (xwalk). Blocks: carousel-hero, search-simple, cards-story.</entry>
+  <entry key="createdBy">excat-migration</entry>
+  <entry key="packageType">content</entry>
+  <entry key="requiresRoot">false</entry>
+  <entry key="allowIndexDefinitions">false</entry>
+</properties>
