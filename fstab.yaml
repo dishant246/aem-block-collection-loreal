@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p10903-e844381.adobeaemcloud.com/bin/franklin.delivery/dishant246/aem-block-collection-loreal/main/content/eds-loreal-dishant"
+    url: "https://author-p10903-e844381.adobeaemcloud.com/bin/franklin.delivery/dishant246/aem-block-collection-loreal/main"
     type: "markup"
     suffix: ".html"
